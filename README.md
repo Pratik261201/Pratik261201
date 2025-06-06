@@ -12,14 +12,24 @@
   <img src="https://img.shields.io/badge/🏷️-About%20Me-0A66C2?style=for-the-badge&logo=github" alt="About Me Banner"/>
 </p>
 
-## 🏷️ About Me
-<div align="left" style="max-width: 800px; margin: auto;">
-- 🔭 I’m currently a **SURGE Research Intern** at **IIT Kanpur**, working on advanced IoT architectures and sensor networks under Prof. Dr. Ankush Sharma.  
-- 🌱 I’m pursuing my **B.Tech in Internet of Things** (Nov 2022 – Jun 2026) at **Madhav Institute of Technology & Science**, Gwalior.  
-- 🤝 Actively contributing as **Vice-Chair** of IEEE PES MITS Student Chapter and former Webmaster (WordPress, SEO, UX).  
-- 💻 Strong interests: **Smart Homes & Buildings**, **Edge AI**, **IoT Security**, **Machine Learning / Deep Learning** in resource-constrained environments.  
-- 📫 Reach me at: [pratikchouragadey26@gmail.com](mailto:pratikchouragadey26@gmail.com) | 📞 +91-7566090544  
-- 🌐 Find me on [LinkedIn](https://linkedin.com/in/pratik-chouragadey-4a6b64286/) | [GitHub](https://github.com/Pratik261201)  
+<div align="left" style="max-width: 800px; margin: auto; font-size: 16px; line-height: 1.7;">
+🎓 I’m currently pursuing a B.Tech in Internet of Things (IoT) at
+Madhav Institute of Technology & Science, Gwalior (2022 – 2026).
+
+🔬 I’m honored to serve as a SURGE Research Intern at IIT Kanpur, working under
+Prof. Dr. Ankush Sharma on advanced IoT architectures and intelligent sensor networks.
+
+🛠️ My technical interests lie at the intersection of Smart Homes & Buildings,
+Edge AI, IoT Security, and Embedded Machine Learning for resource-constrained systems.
+
+🚀 I actively contribute to the tech community as the
+Vice-Chair of IEEE PES MITS Student Chapter and formerly led web operations as Webmaster
+(WordPress, SEO, and UX Design).
+
+📬 Get in touch
+✉️ pratikchouragadey26@gmail.com | 📱 +91-7566090544
+🔗 LinkedIn • GitHub
+
 </div>
 
 ---
