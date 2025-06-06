@@ -344,20 +344,19 @@ Madhav Institute of Technology & Science (Nov 2022 – Jun 2026)
 
 
 <details>
-<summary>Skill Proficiency Gauges 🔍</summary>
+<summary>🔍 Skill Proficiency Gauges</summary>
 
-| Skill                    | Proficiency | Gauge                                            |
-|--------------------------|-------------|--------------------------------------------------|
-| **Embedded Systems**     | 90%         | <progress value="0.90" max="1" style="width: 200px;"></progress> |
-| **IoT Protocols**        | 85%         | <progress value="0.85" max="1" style="width: 200px;"></progress> |
-| **Python Programming**   | 80%         | <progress value="0.80" max="1" style="width: 200px;"></progress> |
-| **C / C++ Programming**  | 75%         | <progress value="0.75" max="1" style="width: 200px;"></progress> |
-| **Machine Learning / DL**| 70%         | <progress value="0.70" max="1" style="width: 200px;"></progress> |
-| **Web Development**      | 65%         | <progress value="0.65" max="1" style="width: 200px;"></progress> |
-| **Cybersecurity (IoT)**  | 60%         | <progress value="0.60" max="1" style="width: 200px;"></progress> |
+| Skill                    | Proficiency | Gauge                                    |
+|--------------------------|-------------|------------------------------------------|
+| **Embedded Systems**     | 90%         | ██████████░░                             |
+| **IoT Protocols**        | 85%         | █████████░░░                             |
+| **Python Programming**   | 80%         | ████████░░░                              |
+| **C / C++ Programming**  | 75%         | ███████░░░░                              |
+| **Machine Learning / DL**| 70%         | ██████░░░░░                              |
+| **Web Development**      | 65%         | █████░░░░░░                              |
+| **Cybersecurity (IoT)**  | 60%         | ████░░░░░░░                              |
 
 </details>
-
 ---
 
 <!-- Section Banner -->
