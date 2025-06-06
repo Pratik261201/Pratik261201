@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/xUPGcgtKxm4PAIRPzS/giphy.gif" width="50" alt="wave"/> Hi 👋, I'm Pratik Chouragadey
+  <img src="https://media.giphy.com/media/xUPGcgtKxm4PAIRPzS/giphy.gif" width="50" alt="wave"/> Hi, I'm Pratik Chouragadey
 </h1>
 <h3 align="center">IoT Enthusiast | Embedded Systems Developer | Research Intern @ IIT Kanpur | IEEE Student Member</h3>
 
@@ -7,73 +7,64 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=IoT%20Developer%20%7C%20Edge%20AI%20Learner%20%7C%20Researcher%20%7C%20Tech%20Blogger&center=true&width=500&height=45" alt="Typing SVG">
 </p>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="200" alt="coding-animation"/>
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="250" alt="coding-animation"/>
+</p>
 
 ---
 
-## 🏷️ About Me 📽️
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7ZeTmU77UlPyeR2w/giphy.gif" width="50" alt="info-animation"/>
-</div>
+## About Me
+- 🔭 **SURGE Research Intern @ IIT Kanpur**: Working on advanced IoT architectures and sensor networks under Prof. Dr. Ankush Sharma.
+- 🌱 **B.Tech in Internet of Things** (Nov 2022 – Jun 2026)  
+  Madhav Institute of Technology & Science, Gwalior  
+  - Coursework: Embedded Systems, Sensor Networks, Wireless Protocols, Cybersecurity, Machine Learning, Edge AI  
+  - CGPA: 8.5/10 (current)
+- 🤝 Active Vice-Chair, IEEE PES MITS Student Chapter; former Webmaster (WordPress, SEO, UX).
+- 💻 Interests: Smart Homes & Buildings, Edge AI, IoT Security, Machine Learning/Deep Learning on edge devices.
+- 📫 Reach me at: [pratikchouragadey26@gmail.com](mailto:pratikchouragadey26@gmail.com) | 📞 +91-7566090544  
+  [LinkedIn](https://linkedin.com/in/pratik-chouragadey-4a6b64286/) | [GitHub](https://github.com/Pratik261201)
 
-- 🔭 I’m currently a **SURGE Research Intern** at **IIT Kanpur**, working on advanced IoT architectures and sensor networks under Prof. Dr. Ankush Sharma.
-- 🌱 I’m pursuing my **B.Tech in Internet of Things** (Nov 2022 – Jun 2026) at **Madhav Institute of Technology & Science**, Gwalior.
-- 🤝 Actively contributing as **Vice-Chair** of IEEE PES MITS Student Chapter and former Webmaster (WordPress, SEO, UX).
-- 💻 Strong interests: **Smart Homes & Buildings**, **Edge AI**, **IoT Security**, **Machine Learning / Deep Learning** in resource-constrained environments.
-- 📫 Reach me at: [pratikchouragadey26@gmail.com](mailto:pratikchouragadey26@gmail.com) | 📞 +91-7566090544
-- 🌐 Find me on [LinkedIn](https://linkedin.com/in/pratik-chouragadey-4a6b64286/) | [GitHub](https://github.com/Pratik261201)
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="300" alt="section-separator"/>
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="300" alt="separator"/>
+</p>
 
 ---
 
-## 🎓 Education 🎓
-<div align="center">
-  <img src="https://media.giphy.com/media/26FPJGjhefSJuaRhu/giphy.gif" width="50" alt="education-animation"/>
-</div>
-
+## 🎓 Education
 **B.Tech in Internet of Things**  
 Madhav Institute of Technology & Science (Nov 2022 – Jun 2026)  
-- Coursework: Embedded Systems, Sensor Networks, Wireless Protocols, Cybersecurity, Machine Learning, Edge AI  
-- CGPA: 8.5/10 (current)
+- Embedded Systems, Sensor Networks, Wireless Protocols, Cybersecurity, Machine Learning, Edge AI.  
+- CGPA: 8.5/10.
 
 <details>
-<summary>My Academic Timeline 📅</summary>
+<summary>Academic Timeline</summary>
 
-| Year        | Details                                                              |
-|-------------|----------------------------------------------------------------------|
-| Nov 2022    | Joined MITS, Gwalior – IoT department                                  |
-| Jan 2023    | Completed **NPTEL IoT** course (IIT Kharagpur)                          |
-| Jan 2024    | Became **Webmaster** for IEEE PES MITS Chapter (Jan 2024 – Dec 2025)     |
-| July 2024   | Research Intern @ Centre for IoT, MITS-DU (Jul – Dec 2024)               |
-| Jan 2025    | Appointed **Vice-Chair** for IEEE PES MITS Chapter (Jan 2025 – Present)  |
-| May 2025    | Selected for **SURGE Internship** @ IIT Kanpur (May 2025 – Present)      |
+| Year      | Details                                                              |
+|-----------|----------------------------------------------------------------------|
+| Nov 2022  | Joined MITS Gwalior (IoT department)                                 |
+| Jan 2023  | Completed NPTEL IoT course (IIT Kharagpur)                            |
+| Jan 2024  | Became Webmaster for IEEE PES MITS Chapter (Jan 2024 – Dec 2025)      |
+| Jul 2024  | Research Intern @ Centre for IoT, MITS-DU (Jul – Dec 2024)             |
+| Jan 2025  | Appointed Vice-Chair, IEEE PES MITS Chapter (Jan 2025 – Present)     |
+| May 2025  | Selected for SURGE Internship @ IIT Kanpur (May 2025 – Present)       |
 
 </details>
 
-<div align="center">
+<p align="center">
   <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="300" alt="divider"/>
-</div>
+</p>
 
 ---
 
-## 📜 Publications & Research 📖
+## 📜 Publications & Research
 <div align="center">
-  <h3>📘 Featured Publication</h3>
+  <h4>Featured Publication</h4>
   <img src="https://media.giphy.com/media/3orieWe6rkoGzmaC4I/giphy.gif" width="50" alt="book-animation"/>
 </div>
 
-<div align="center" style="margin-top: 10px;">
-  <img src="https://img.shields.io/badge/Smart_Home_Automation-Node--RED%20|%20ESP32-blue?style=for-the-badge&logo=home-assistant&logoColor=white" alt="Publication Badge"/>
-</div>
-
-### “Smart Home Automation with MQTT Using ESP32 and Node-RED”  
+### Smart Home Automation with MQTT Using ESP32 and Node-RED  
 **Authors:** Pratik Chouragadey, Bhavna Rathore, Gaurav Khare  
-🗓️ *ICPC²T 2025 – IEEE Scopus-Indexed Conference*, NIT Raipur (Jan 20–22, 2025)  
+🗓️ *ICPC²T 2025 – IEEE Scopus-Indexed Conference*, NIT Raipur (Jan 20–22, 2025)
 
 <div align="center">
   <a href="http://icpc2t.nitrr.ac.in/" target="_blank">
@@ -88,87 +79,88 @@ Madhav Institute of Technology & Science (Nov 2022 – Jun 2026)
 </div>
 
 <details>
-<summary><b>📖 Research Paper Abstract (click to expand)</b></summary>
+<summary><strong>Research Paper Abstract</strong></summary>
 
-> We implemented a robust MQTT-based smart home solution utilizing ESP32 microcontrollers and Node-RED for visual flow-based control. The system leverages secure MQTT-TLS channels, enabling low-latency bidirectional communication between devices and the dashboard. Our prototype demonstrates real-time monitoring and automation of lighting, HVAC, and security cameras, with remote control over mobile/web interfaces. Performance evaluations indicate an average latency of <50ms under normal Wi-Fi conditions.  
+> We implemented a robust MQTT-based smart home solution utilizing ESP32 microcontrollers and Node-RED for visual flow-based control. The system leverages secure MQTT-TLS channels, enabling low-latency bidirectional communication between devices and the dashboard. Our prototype demonstrates real-time monitoring and automation of lighting, HVAC, and security cameras, with remote control via mobile/web interfaces. Performance evaluations indicate latency < 50 ms under standard Wi-Fi.  
 >  
 > **Keywords**: MQTT, ESP32, Node-RED, Smart Home, IoT Security, Real-time Automation.
+
 </details>
 
-<div align="center">
+<p align="center">
   <img src="https://media.giphy.com/media/l0ExncehJzexFpRHq/giphy.gif" width="300" alt="section-divider"/>
-</div>
+</p>
 
 ---
 
-## 💼 Professional Experience 💼
+## 💼 Professional Experience
 <div align="center">
   <img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" width="50" alt="experience-animation"/>
 </div>
 
-### **SURGE Research Intern** (May 2025 – Present)  
-**Indian Institute of Technology Kanpur (IITK)** – IoT Domain under Prof. Dr. Ankush Sharma  
-- Conducting applied research on scalable IoT architectures and sensor network optimizations.  
-- Designing low-power communication modules and evaluating trade-offs between latency, throughput, and security.  
-- Implementing proofs-of-concept for large-scale smart building deployments.
+### SURGE Research Intern (May 2025 – Present)  
+**IIT Kanpur, SURGE Internship under Prof. Dr. Ankush Sharma**  
+- Conducted applied research on scalable IoT architectures and sensor network optimizations.  
+- Designed low-power communication modules and evaluated trade-offs between latency, throughput, and security.  
+- Implemented proofs-of-concept for large-scale smart building deployments.
 
-### **Research Intern** (Jul 2024 – Dec 2024)  
+### Research Intern (Jul 2024 – Dec 2024)  
 **Centre for Internet of Things, MITS-DU, Gwalior**  
-- Analyzed **MQTT-TLS, HTTPS, WebSocket, UDP, AMQP, TCP** protocols on ESP32 for latency, security, and bandwidth optimization.  
-- Developed an **IoT-based Precision Irrigation System** using ESP32, Node-RED & Pagekite for real-time remote monitoring.  
-- Collaborated with a multi-disciplinary team, wrote technical reports, and presented findings at departmental seminars.
+- Analyzed MQTT-TLS, HTTPS, WebSocket, UDP, AMQP, TCP protocols on ESP32 for latency, security, and bandwidth.  
+- Developed an IoT-based Precision Irrigation System (ESP32, Node-RED, Pagekite) for real-time remote monitoring.  
+- Collaborated with a multi-disciplinary team; authored technical reports and presented findings in seminars.
 
-### **Vice-Chair** (Jan 2025 – Present)  
+### Vice-Chair (Jan 2025 – Present)  
 **IEEE PES MITS Student Chapter, Gwalior**  
-- Oversee chapter activities, events, and workshops (10+ events per semester).  
-- Coordinate with industry professionals to organize webinars on **sustainable energy** and **smart grids**.  
-- Mentor juniors in IEEE membership drives and technical competitions.
+- Oversaw chapter activities, events, and workshops (10+ events/semester).  
+- Coordinated webinars on sustainable energy and smart grids with industry professionals.  
+- Mentored juniors in IEEE membership drives and technical contests.
 
-### **Webmaster** (Jan 2024 – Dec 2025)  
+### Webmaster (Jan 2024 – Dec 2025)  
 **IEEE PES MITS Student Chapter, Gwalior**  
-- Designed and maintained the official chapter website using WordPress; improved page load times by 30%.  
-- Implemented SEO strategies, boosting organic traffic by 200% in 6 months.  
-- Ensured timely content updates, security patches, and SSL/TLS integration.
+- Designed and maintained the official chapter site (WordPress), improving load times by 30%.  
+- Implemented SEO strategies, boosting organic traffic by 200% in six months.  
+- Managed timely content updates, security patches, and SSL/TLS integration.
 
-### **IoT & Edge AI Intern** (May – Jun 2024)  
+### IoT & Edge AI Intern (May – Jun 2024)  
 **UniConverge Technology Pvt. Ltd, Noida**  
-- Completed a two-week intensive training in IoT and Edge AI.  
-- Worked on real-time sensor monitoring, cloud integration (AWS IoT Core), and Node-RED flows for predictive maintenance.  
+- Completed two-week intensive training in IoT and Edge AI.  
+- Worked on real-time sensor monitoring, AWS IoT Core integration, and Node-RED flows for predictive maintenance.
 
-<div align="center">
+<p align="center">
   <img src="https://media.giphy.com/media/xT5LMEcBblwBrM7G2E/giphy.gif" width="300" alt="experience-divider"/>
-</div>
+</p>
 
 ---
 
-## 🚀 Notable Projects & GitHub Repos 🚀
+## 🚀 Notable Projects & GitHub Repos
 <div align="center">
   <img src="https://media.giphy.com/media/3ohhwly7fi0ZSgkHNe/giphy.gif" width="50" alt="projects-animation"/>
 </div>
 
-> **Check out live demos and code in my [GitHub repositories](https://github.com/Pratik261201?tab=repositories).**
+> Explore demos and code in my [GitHub repositories](https://github.com/Pratik261201?tab=repositories).
 
-| Project Title                                    | Description                                                                                           | Tech Stack                          | Link                                         |
-|--------------------------------------------------|-------------------------------------------------------------------------------------------------------|-------------------------------------|----------------------------------------------|
-| **Industrial Health Monitoring Robot**           | Real-time monitoring of industrial safety parameters (temperature, gas, vibration).                   | ESP32, Raspberry Pi, Python, ROS    | [YouTube Demo](https://youtu.be/Krsu61oUkgM?si=sJg1nd_KZfckb5jD) |
-| **End-to-End Encryption in IoT**                 | Implemented SHA-256 + MQTT over TLS on ESP32; reduced data vulnerability by **40%**.                  | ESP32, MQTT-TLS, C, Python          | [Repo](https://github.com/Pratik261201/IoT-Encryption)         |
-| **Wireless Protocol Analysis with ESP32**        | Comparative study of MQTT-TLS, HTTPS, WebSocket, UDP, AMQP, TCP for latency, security & throughput.    | ESP32, Node-RED, Wireshark Analysis | [Repo](https://github.com/Pratik261201/Wireless-Analysis)      |
-| **Computer Vision for Smart Lighting Control**   | Developed a gesture-controlled lighting interface using OpenCV; enhanced user interaction.             | Python, OpenCV, ESP32, C            | [YouTube Short](https://www.youtube.com/shorts/eOIKBk9tMK0?si=KWPNB37fiVICQIIk) |
-| **Desktop Assistant**                            | Voice-command recognition, email/web automation, system control, ML-based tasks (Speech-to-Text).     | Python, TensorFlow, SpeechRecognition | [Repo](https://github.com/Pratik261201/Voice-Activated-AI-Personal-Assistant) |
+| Project                                 | Description                                                                                     | Tech Stack                            | Link                                                                                   |
+|-----------------------------------------|-------------------------------------------------------------------------------------------------|---------------------------------------|----------------------------------------------------------------------------------------|
+| **Industrial Health Monitoring Robot**  | Real-time monitoring of industrial safety parameters (temperature, gas, vibration).             | ESP32, Raspberry Pi, Python, ROS      | [YouTube Demo](https://youtu.be/Krsu61oUkgM?si=sJg1nd_KZfckb5jD)                       |
+| **End-to-End Encryption in IoT**        | Implemented SHA-256 + MQTT over TLS on ESP32; reduced data vulnerability by 40%.                | ESP32, MQTT-TLS, C, Python            | [Repo](https://github.com/Pratik261201/IoT-Encryption)                                 |
+| **Wireless Protocol Analysis with ESP32** | Comparative study of MQTT-TLS, HTTPS, WebSocket, UDP, AMQP, TCP for latency, security & throughput. | ESP32, Node-RED, Wireshark Analysis   | [Repo](https://github.com/Pratik261201/Wireless-Analysis)                              |
+| **Computer Vision for Smart Lighting**    | Gesture-controlled lighting interface using OpenCV; enhanced user interaction.                  | Python, OpenCV, ESP32, C              | [YouTube Short](https://www.youtube.com/shorts/eOIKBk9tMK0?si=KWPNB37fiVICQIIk)         |
+| **Desktop Assistant**                   | Voice-command recognition, email/web automation, system control, ML-based tasks (Speech-to-Text). | Python, TensorFlow, SpeechRecognition | [Repo](https://github.com/Pratik261201/Voice-Activated-AI-Personal-Assistant)           |
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/Pratik261201?tab=repositories">
     <img src="https://img.shields.io/badge/Explore%20More%20Projects-blueviolet?style=for-the-badge&logo=github" alt="More Projects"/>
   </a>
-</div>
+</p>
 
-<div align="center">
+<p align="center">
   <img src="https://media.giphy.com/media/PGa2wLbnAE62Q/giphy.gif" width="300" alt="projects-divider"/>
-</div>
+</p>
 
 ---
 
-## 🛠️ Technical Skills & Gauges 🛠️
+## 🛠️ Technical Skills & Gauges
 <div align="center">
   <img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" width="50" alt="skills-animation"/>
 </div>
@@ -189,34 +181,34 @@ Madhav Institute of Technology & Science (Nov 2022 – Jun 2026)
 </p>
 
 <details>
-<summary>Skill Proficiency Gauges 🔍</summary>
+<summary>Skill Proficiency Gauges</summary>
 
 | Skill                    | Proficiency | Gauge                                            |
 |--------------------------|-------------|---------------------------------------------------|
-| **Embedded Systems**     | 90%         | <progress value="0.90" max="1" style="width: 200px;"></progress> |
-| **IoT Protocols**        | 85%         | <progress value="0.85" max="1" style="width: 200px;"></progress> |
-| **Python Programming**   | 80%         | <progress value="0.80" max="1" style="width: 200px;"></progress> |
-| **C / C++ Programming**  | 75%         | <progress value="0.75" max="1" style="width: 200px;"></progress> |
-| **Machine Learning / DL**| 70%         | <progress value="0.70" max="1" style="width: 200px;"></progress> |
-| **Web Development**      | 65%         | <progress value="0.65" max="1" style="width: 200px;"></progress> |
-| **Cybersecurity (IoT)**  | 60%         | <progress value="0.60" max="1" style="width: 200px;"></progress> |
+| Embedded Systems         | 90%         | <progress value="0.90" max="1" style="width: 200px;"></progress> |
+| IoT Protocols            | 85%         | <progress value="0.85" max="1" style="width: 200px;"></progress> |
+| Python Programming       | 80%         | <progress value="0.80" max="1" style="width: 200px;"></progress> |
+| C / C++ Programming      | 75%         | <progress value="0.75" max="1" style="width: 200px;"></progress> |
+| Machine Learning / DL    | 70%         | <progress value="0.70" max="1" style="width: 200px;"></progress> |
+| Web Development          | 65%         | <progress value="0.65" max="1" style="width: 200px;"></progress> |
+| Cybersecurity (IoT)      | 60%         | <progress value="0.60" max="1" style="width: 200px;"></progress> |
 
 </details>
 
-<div align="center">
+<p align="center">
   <img src="https://media.giphy.com/media/3o7ZeTmU77UlPyeR2w/giphy.gif" width="300" alt="divider"/>
-</div>
+</p>
 
 ---
 
-## 🌐 GitHub Stats & Activity 📊
+## 🌐 GitHub Stats & Activity
 <div align="center">
   <img src="https://media.giphy.com/media/3oEdv8m3XLGYHRQGls/giphy.gif" width="50" alt="stats-animation"/>
 </div>
 
 <p align="center">
   <a href="https://github.com/Pratik261201">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pratik261201&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Pratik's GitHub Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pratik261201&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/Pratik261201">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik261201&hide=html,css&layout=compact&theme=radical" alt="Top Languages" />
@@ -227,69 +219,69 @@ Madhav Institute of Technology & Science (Nov 2022 – Jun 2026)
   <img src="https://komarev.com/ghpvc/?username=Pratik261201&style=flat-square&color=blue" alt="Profile Views"/>
 </p>
 
-<div align="center">
+<p align="center">
   <img src="https://media.giphy.com/media/l3vR1c7Gz9hYJdThO/giphy.gif" width="300" alt="divider"/>
-</div>
+</p>
 
 ---
 
-## 🏆 Certifications & Achievements 🏅
+## 🏆 Certifications & Achievements
 <div align="center">
   <img src="https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif" width="50" alt="cert-animation"/>
 </div>
 
 <details>
-<summary>Click to Expand 🎖️</summary>
+<summary>Click to Expand</summary>
 
-- **Smart Home Automation with MQTT** (ICPC²T 2025 – IEEE Scopus-Indexed Conference)  
-- **NPTEL Introduction to Internet of Things** (IIT Kharagpur) – Jan–Apr 2023  
-- **IEEE MP RoboTech Quest Participation** – Apr 2024  
-- **IEEE PES Day 2024 Brand Ambassador** – Apr 2024  
-- **M.P. Young Scientist Congress** (ECG Monitoring System) – Feb 2024  
-- **Peer-to-Peer Learning IoT Workshop Mentor** – Feb 2024
+- Smart Home Automation with MQTT (ICPC²T 2025 – IEEE Scopus-Indexed Conference)  
+- NPTEL Introduction to Internet of Things (IIT Kharagpur) – Jan Apr 2023  
+- IEEE MP RoboTech Quest Participation – Apr 2024  
+- IEEE PES Day 2024 Brand Ambassador – Apr 2024  
+- M.P. Young Scientist Congress (ECG Monitoring System) – Feb 2024  
+- Peer-to-Peer Learning IoT Workshop Mentor – Feb 2024
 
 </details>
 
-<div align="center">
+<p align="center">
   <img src="https://media.giphy.com/media/3oFzmkkGeK9KF6pRdg/giphy.gif" width="300" alt="divider"/>
-</div>
+</p>
 
 ---
 
-## 🔎 Research Interests & Focus Areas 🔍
+## 🔎 Research Interests & Focus Areas
 <div align="center">
   <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="50" alt="focus-animation"/>
 </div>
 
-- **Deep Learning & Neural Networks**  
-- **Edge Computing & Distributed Systems**  
-- **Security in IoT** (End-to-End Encryption, SHA-256, AES-256)  
-- **Real-time Sensor Networks**  
-- **AI / ML Applications in Resource-Constrained Environments**  
-- **Microcontroller-Based Systems** (ESP32, Arduino, Raspberry Pi, Jetson Nano, Jetson Orin)
+- Deep Learning & Neural Networks  
+- Edge Computing & Distributed Systems  
+- Security in IoT (End-to-End Encryption, SHA-256, AES-256)  
+- Real-time Sensor Networks  
+- AI/ML Applications in Resource-Constrained Environments  
+- Microcontroller-Based Systems (ESP32, Arduino, Raspberry Pi, Jetson Nano, Jetson Orin)
 
-<div align="center">
+<p align="center">
   <img src="https://media.giphy.com/media/3o6Zt8MgUuvSbkZYWc/giphy.gif" width="300" alt="divider"/>
-</div>
+</p>
 
 ---
 
-## 🤝 Professional Affiliations 🤝
+## 🤝 Professional Affiliations
 <div align="center">
   <img src="https://media.giphy.com/media/3o7aD5tv1ogNBtDhDi/giphy.gif" width="50" alt="affiliation-animation"/>
 </div>
 
-- Student Member, **IEEE Power & Energy Society (PES)** (Member #100040895)  
-- Member, **IEEE Computer Society (CS)** & **IoT Community**  
-- Reviewer, IEEE IoT Conferences & Journals (2024–Present)
+- Student Member, IEEE Power & Energy Society (PES) (Member #100040895)  
+- Member, IEEE Computer Society & IoT Community  
+- Reviewer, IEEE IoT Conferences & Journals (2024 – Present)
 
-<div align="center">
+<p align="center">
   <img src="https://media.giphy.com/media/xT0xezQGU5xCDJuCPe/giphy.gif" width="300" alt="divider"/>
-</div>
+</p>
 
 ---
 
-## 📫 Contact & Connect 📫
+## 📫 Contact & Connect
 <div align="center">
   <img src="https://media.giphy.com/media/l0ExdMHUDKteztyfe/giphy.gif" width="50" alt="contact-animation"/>
 </div>
@@ -311,30 +303,4 @@ Madhav Institute of Technology & Science (Nov 2022 – Jun 2026)
 
 <div align="center">
   <img src="https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif" width="300" alt="divider"/>
-</div>
-
-<details>
-<summary>Fun Facts & Quick Animations 🎉</summary>
-
-- ✨ **GIF Showcase**:  
-  <p align="center">
-    <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="celebration" width="300"/>
-  </p>
-
-- 🔭 **Currently Learning**:  
-  - Deploying **Edge AI Models** on Nvidia Jetson Nano  
-  - Optimizing **MQTT-TLS** security for large-scale IoT deployments
-
-- 📚 **Wishlist Projects**:  
-  - Autonomous Drone Fleet for Smart Agriculture  
-  - Blockchain-based IoT Data Provenance System  
-  - Real-Time Digital Twin for Smart Buildings  
-
-</details>
-
----
-
-<div align="center">
-  <p>“Innovation distinguishes between a leader and a follower.” – Steve Jobs</p>
-  <img src="https://c.tenor.com/0_SrVzcVY20AAAAC/heart-hands.gif" alt="heart-hands" width="100"/>
 </div>
