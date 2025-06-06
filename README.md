@@ -212,20 +212,87 @@ Madhav Institute of Technology & Science (Nov 2022 – Jun 2026)
 
 ## 🛠️ Technical Skills & Gauges
 
-<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
-  <img src="https://img.shields.io/badge/ESP32-2C8EBB?style=flat-square&logo=espressif" alt="ESP32"/>
-  <img src="https://img.shields.io/badge/Arduino-D83A17?style=flat-square&logo=arduino" alt="Arduino"/>
-  <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberry-pi" alt="Raspberry Pi"/>
-  <img src="https://img.shields.io/badge/MQTT-FF6B00?style=flat-square&logo=mqtt" alt="MQTT"/>
-  <img src="https://img.shields.io/badge/Node_-RED-0F9D58?style=flat-square&logo=node-red" alt="Node-RED"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python" alt="Python"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B" alt="C++"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv" alt="OpenCV"/>
-  <img src="https://img.shields.io/badge/NodeJS-339933?style=flat-square&logo=node.js" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git" alt="Git"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux" alt="Linux"/>
-</p>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+
+  <!-- Embedded Systems & Hardware -->
+  <div align="left" style="margin: 8px;">
+    **Embedded Systems & Hardware:**<br>
+    <img src="https://img.shields.io/badge/ESP32-2C8EBB?style=flat-square&logo=espressif" alt="ESP32"/>
+    <img src="https://img.shields.io/badge/Arduino-D83A17?style=flat-square&logo=arduino" alt="Arduino"/>
+    <img src="https://img.shields.io/badge/NodeMCU-394758?style=flat-square&logo=nodemcu&logoColor=white" alt="NodeMCU"/>
+    <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberry-pi" alt="Raspberry Pi"/>
+    <img src="https://img.shields.io/badge/Nvidia_Jetson_Nano-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="Jetson Nano"/>
+  </div>
+
+  <!-- Networking & Communication Protocols -->
+  <div align="left" style="margin: 8px;">
+    **Networking & Communication Protocols:**<br>
+    <img src="https://img.shields.io/badge/MQTT-FF6B00?style=flat-square&logo=mqtt" alt="MQTT"/>
+    <img src="https://img.shields.io/badge/HTTP-000000?style=flat-square&logo=http" alt="HTTP"/>
+    <img src="https://img.shields.io/badge/WiFi-0F9D58?style=flat-square&logo=wifi" alt="WiFi"/>
+    <img src="https://img.shields.io/badge/LoRa-4D148C?style=flat-square&logo=lora" alt="LoRa"/>
+    <img src="https://img.shields.io/badge/Zigbee-F6DE0E?style=flat-square&logo=zigbee" alt="Zigbee"/>
+    <img src="https://img.shields.io/badge/BLE-27448B?style=flat-square&logo=bluetooth" alt="BLE"/>
+    <img src="https://img.shields.io/badge/Bluetooth-27448B?style=flat-square&logo=bluetooth" alt="Bluetooth"/>
+    <img src="https://img.shields.io/badge/Modbus-FF4500?style=flat-square&logo=modbus" alt="Modbus"/>
+    <img src="https://img.shields.io/badge/I2C-007ACC?style=flat-square" alt="I2C"/>
+    <img src="https://img.shields.io/badge/SPI-FFCC00?style=flat-square" alt="SPI"/>
+    <img src="https://img.shields.io/badge/UART-4B8BBE?style=flat-square" alt="UART"/>
+    <img src="https://img.shields.io/badge/HTTPS-000000?style=flat-square&logo=https" alt="HTTPS"/>
+    <img src="https://img.shields.io/badge/WebSocket-29B6F6?style=flat-square" alt="WebSocket"/>
+    <img src="https://img.shields.io/badge/UDP-00ACC1?style=flat-square" alt="UDP"/>
+    <img src="https://img.shields.io/badge/AMQP-439FE0?style=flat-square" alt="AMQP"/>
+    <img src="https://img.shields.io/badge/TCP-0052CC?style=flat-square" alt="TCP"/>
+    <img src="https://img.shields.io/badge/GSM-1E88E5?style=flat-square" alt="GSM"/>
+  </div>
+
+  <!-- Cybersecurity & IoT Security -->
+  <div align="left" style="margin: 8px;">
+    **Cybersecurity & IoT Security:**<br>
+    <img src="https://img.shields.io/badge/End‐to‐End_Encryption-0366D6?style=flat-square" alt="End-to-End Encryption"/>
+    <img src="https://img.shields.io/badge/SHA-256-5E35B1?style=flat-square" alt="SHA-256"/>
+    <img src="https://img.shields.io/badge/AES-256-C62828?style=flat-square" alt="AES-256"/>
+    <img src="https://img.shields.io/badge/Secure_MQTT-00BFA5?style=flat-square" alt="Secure MQTT"/>
+    <img src="https://img.shields.io/badge/IoT_Penetration_Testing-37474F?style=flat-square" alt="IoT Penetration Testing"/>
+  </div>
+
+  <!-- Software & IoT Platforms -->
+  <div align="left" style="margin: 8px;">
+    **Software & IoT Platforms:**<br>
+    <img src="https://img.shields.io/badge/Node--RED-0F9D58?style=flat-square&logo=node-red" alt="Node-RED"/>
+    <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=flat-square&logo=arduino" alt="Arduino IDE"/>
+    <img src="https://img.shields.io/badge/HiveMQ-0E87F2?style=flat-square" alt="HiveMQ"/>
+    <img src="https://img.shields.io/badge/ThingSpeak-FF6600?style=flat-square" alt="ThingSpeak"/>
+    <img src="https://img.shields.io/badge/BlynkIoT-FF4B4B?style=flat-square" alt="BlynkIoT"/>
+    <img src="https://img.shields.io/badge/PageKite-00897B?style=flat-square" alt="PageKite"/>
+    <img src="https://img.shields.io/badge/EMQX-009688?style=flat-square" alt="EMQX"/>
+  </div>
+
+  <!-- Programming Languages -->
+  <div align="left" style="margin: 8px;">
+    **Programming Languages:**<br>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python" alt="Python"/>
+    <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c" alt="C"/>
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B" alt="C++"/>
+  </div>
+
+  <!-- Machine Learning & Deep Learning -->
+  <div align="left" style="margin: 8px;">
+    **Machine Learning & Deep Learning:**<br>
+    <img src="https://img.shields.io/badge/CUDA-F0DB4F?style=flat-square&logo=nvidia" alt="CUDA"/>
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
+    <img src="https://img.shields.io/badge/TorchVision-FF6A00?style=flat-square&logo=tmp" alt="TorchVision"/>
+    <img src="https://img.shields.io/badge/CNN-4285F4?style=flat-square" alt="CNN"/>
+    <img src="https://img.shields.io/badge/LNN-4CAF50?style=flat-square" alt="LNN"/>
+    <img src="https://img.shields.io/badge/PINN-FFC107?style=flat-square" alt="PINN"/>
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow" alt="TensorFlow"/>
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv" alt="OpenCV"/>
+    <img src="https://img.shields.io/badge/Boruta-8E44AD?style=flat-square" alt="Boruta"/>
+    <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas"/>
+  </div>
+
+</div>
+
 
 <details>
 <summary>Skill Proficiency Gauges 🔍</summary>
