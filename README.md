@@ -1,45 +1,40 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/xUPGcgtKxm4PAIRPzS/giphy.gif" width="50" alt="wave"/> Hi 👋, I'm Pratik Chouragadey
-</h1>
+<h1 align="center">Hi 👋, I'm Pratik Chouragadey</h1>
 <h3 align="center">IoT Enthusiast | Embedded Systems Developer | Research Intern @ IIT Kanpur | IEEE Student Member</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=IoT%20Developer%20%7C%20Edge%20AI%20Learner%20%7C%20Researcher%20%7C%20Tech%20Blogger&center=true&width=500&height=45" alt="Typing SVG">
 </p>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="200" alt="coding-animation"/>
+---
+
+<!-- Section Banner -->
+<p align="center">
+  <img src="https://img.shields.io/badge/🏷️-About%20Me-0A66C2?style=for-the-badge&logo=github" alt="About Me Banner"/>
+</p>
+
+## 🏷️ About Me
+<div align="left" style="max-width: 800px; margin: auto;">
+- 🔭 I’m currently a **SURGE Research Intern** at **IIT Kanpur**, working on advanced IoT architectures and sensor networks under Prof. Dr. Ankush Sharma.  
+- 🌱 I’m pursuing my **B.Tech in Internet of Things** (Nov 2022 – Jun 2026) at **Madhav Institute of Technology & Science**, Gwalior.  
+- 🤝 Actively contributing as **Vice-Chair** of IEEE PES MITS Student Chapter and former Webmaster (WordPress, SEO, UX).  
+- 💻 Strong interests: **Smart Homes & Buildings**, **Edge AI**, **IoT Security**, **Machine Learning / Deep Learning** in resource-constrained environments.  
+- 📫 Reach me at: [pratikchouragadey26@gmail.com](mailto:pratikchouragadey26@gmail.com) | 📞 +91-7566090544  
+- 🌐 Find me on [LinkedIn](https://linkedin.com/in/pratik-chouragadey-4a6b64286/) | [GitHub](https://github.com/Pratik261201)  
 </div>
 
 ---
 
-## 🏷️ About Me 📽️
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7ZeTmU77UlPyeR2w/giphy.gif" width="50" alt="info-animation"/>
-</div>
+<!-- Section Banner -->
+<p align="center">
+  <img src="https://img.shields.io/badge/🎓-Education-EA4335?style=for-the-badge&logo=google-scholar" alt="Education Banner"/>
+</p>
 
-- 🔭 I’m currently a **SURGE Research Intern** at **IIT Kanpur**, working on advanced IoT architectures and sensor networks under Prof. Dr. Ankush Sharma.
-- 🌱 I’m pursuing my **B.Tech in Internet of Things** (Nov 2022 – Jun 2026) at **Madhav Institute of Technology & Science**, Gwalior.
-- 🤝 Actively contributing as **Vice-Chair** of IEEE PES MITS Student Chapter and former Webmaster (WordPress, SEO, UX).
-- 💻 Strong interests: **Smart Homes & Buildings**, **Edge AI**, **IoT Security**, **Machine Learning / Deep Learning** in resource-constrained environments.
-- 📫 Reach me at: [pratikchouragadey26@gmail.com](mailto:pratikchouragadey26@gmail.com) | 📞 +91-7566090544
-- 🌐 Find me on [LinkedIn](https://linkedin.com/in/pratik-chouragadey-4a6b64286/) | [GitHub](https://github.com/Pratik261201)
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="300" alt="section-separator"/>
-</div>
-
----
-
-## 🎓 Education 🎓
-<div align="center">
-  <img src="https://media.giphy.com/media/26FPJGjhefSJuaRhu/giphy.gif" width="50" alt="education-animation"/>
-</div>
-
+## 🎓 Education
+<div align="left" style="max-width: 800px; margin: auto;">
 **B.Tech in Internet of Things**  
 Madhav Institute of Technology & Science (Nov 2022 – Jun 2026)  
 - Coursework: Embedded Systems, Sensor Networks, Wireless Protocols, Cybersecurity, Machine Learning, Edge AI  
-- CGPA: 8.5/10 (current)
+- CGPA: 8.5/10 (current)  
 
 <details>
 <summary>My Academic Timeline 📅</summary>
@@ -54,36 +49,38 @@ Madhav Institute of Technology & Science (Nov 2022 – Jun 2026)
 | May 2025    | Selected for **SURGE Internship** @ IIT Kanpur (May 2025 – Present)      |
 
 </details>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="300" alt="divider"/>
 </div>
 
 ---
 
-## 📜 Publications & Research 📖
+<!-- Section Banner -->
+<p align="center">
+  <img src="https://img.shields.io/badge/📜-Publications%20&%20Research-171515?style=for-the-badge&logo=researchgate" alt="Publications Banner"/>
+</p>
+
+## 📜 Publications & Research
+
 <div align="center">
   <h3>📘 Featured Publication</h3>
-  <img src="https://media.giphy.com/media/3orieWe6rkoGzmaC4I/giphy.gif" width="50" alt="book-animation"/>
 </div>
 
 <div align="center" style="margin-top: 10px;">
-  <img src="https://img.shields.io/badge/Smart_Home_Automation-Node--RED%20|%20ESP32-blue?style=for-the-badge&logo=home-assistant&logoColor=white" alt="Publication Badge"/>
+  <img src="https://img.shields.io/badge/Smart_Home_Automation-Node--RED%20|%20ESP32-blue?style=for-the-badge&logo=home-assistant&logoColor=white" alt="Smart Home Automation Badge"/>
 </div>
 
 ### “Smart Home Automation with MQTT Using ESP32 and Node-RED”  
 **Authors:** Pratik Chouragadey, Bhavna Rathore, Gaurav Khare  
 🗓️ *ICPC²T 2025 – IEEE Scopus-Indexed Conference*, NIT Raipur (Jan 20–22, 2025)  
 
-<div align="center">
-  <a href="http://icpc2t.nitrr.ac.in/" target="_blank">
-    <img src="https://img.shields.io/badge/Conference%20Website-1A1A1A?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Conference Link"/>
+<div align="center" style="margin-top: 8px;">
+  <a href="http://icpc2t.nitrr.ac.in/" target="_blank" title="Conference Website">
+    <img src="https://img.shields.io/badge/Conference%20Website-1A1A1A?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Conference Link" />
   </a>
-  <a href="https://ieeexplore.ieee.org/document/10958730" target="_blank">
-    <img src="https://img.shields.io/badge/View%20on%20IEEE-003366?style=for-the-badge&logo=IEEE&logoColor=white" alt="IEEE Link"/>
+  <a href="https://ieeexplore.ieee.org/document/10958730" target="_blank" title="View on IEEE Xplore">
+    <img src="https://img.shields.io/badge/View%20on%20IEEE-003366?style=for-the-badge&logo=IEEE&logoColor=white" alt="IEEE Link" />
   </a>
-  <a href="https://scholar.google.com/citations?user=J14FK-8AAAAJ&hl=en&oi=ao" target="_blank">
-    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/>
+  <a href="https://scholar.google.com/citations?user=J14FK-8AAAAJ&hl=en&oi=ao" target="_blank" title="Google Scholar Profile">
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar Badge" />
   </a>
 </div>
 
@@ -95,16 +92,16 @@ Madhav Institute of Technology & Science (Nov 2022 – Jun 2026)
 > **Keywords**: MQTT, ESP32, Node-RED, Smart Home, IoT Security, Real-time Automation.
 </details>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/l0ExncehJzexFpRHq/giphy.gif" width="300" alt="section-divider"/>
-</div>
-
 ---
 
-## 💼 Professional Experience 💼
-<div align="center">
-  <img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" width="50" alt="experience-animation"/>
-</div>
+<!-- Section Banner -->
+<p align="center">
+  <img src="https://img.shields.io/badge/💼-Professional%20Experience-007ACC?style=for-the-badge&logo=microsoft" alt="Experience Banner"/>
+</p>
+
+## 💼 Professional Experience
+
+<div align="left" style="max-width: 800px; margin: auto;">
 
 ### **SURGE Research Intern** (May 2025 – Present)  
 **Indian Institute of Technology Kanpur (IITK)** – IoT Domain under Prof. Dr. Ankush Sharma  
@@ -112,11 +109,15 @@ Madhav Institute of Technology & Science (Nov 2022 – Jun 2026)
 - Designing low-power communication modules and evaluating trade-offs between latency, throughput, and security.  
 - Implementing proofs-of-concept for large-scale smart building deployments.
 
+---
+
 ### **Research Intern** (Jul 2024 – Dec 2024)  
 **Centre for Internet of Things, MITS-DU, Gwalior**  
 - Analyzed **MQTT-TLS, HTTPS, WebSocket, UDP, AMQP, TCP** protocols on ESP32 for latency, security, and bandwidth optimization.  
 - Developed an **IoT-based Precision Irrigation System** using ESP32, Node-RED & Pagekite for real-time remote monitoring.  
 - Collaborated with a multi-disciplinary team, wrote technical reports, and presented findings at departmental seminars.
+
+---
 
 ### **Vice-Chair** (Jan 2025 – Present)  
 **IEEE PES MITS Student Chapter, Gwalior**  
@@ -124,56 +125,94 @@ Madhav Institute of Technology & Science (Nov 2022 – Jun 2026)
 - Coordinate with industry professionals to organize webinars on **sustainable energy** and **smart grids**.  
 - Mentor juniors in IEEE membership drives and technical competitions.
 
+---
+
 ### **Webmaster** (Jan 2024 – Dec 2025)  
 **IEEE PES MITS Student Chapter, Gwalior**  
 - Designed and maintained the official chapter website using WordPress; improved page load times by 30%.  
 - Implemented SEO strategies, boosting organic traffic by 200% in 6 months.  
 - Ensured timely content updates, security patches, and SSL/TLS integration.
 
+---
+
 ### **IoT & Edge AI Intern** (May – Jun 2024)  
 **UniConverge Technology Pvt. Ltd, Noida**  
 - Completed a two-week intensive training in IoT and Edge AI.  
-- Worked on real-time sensor monitoring, cloud integration (AWS IoT Core), and Node-RED flows for predictive maintenance.  
+- Worked on real-time sensor monitoring, cloud integration (AWS IoT Core), and Node-RED flows for predictive maintenance.
 
-<div align="center">
-  <img src="https://media.giphy.com/media/xT5LMEcBblwBrM7G2E/giphy.gif" width="300" alt="experience-divider"/>
 </div>
 
 ---
 
-## 🚀 Notable Projects & GitHub Repos 🚀
-<div align="center">
-  <img src="https://media.giphy.com/media/3ohhwly7fi0ZSgkHNe/giphy.gif" width="50" alt="projects-animation"/>
-</div>
+<!-- Section Banner -->
+<p align="center">
+  <img src="https://img.shields.io/badge/🚀-Notable%20Projects%20%26%20GitHub%20Repos-FF6F00?style=for-the-badge&logo=github" alt="Projects Banner"/>
+</p>
 
+## 🚀 Notable Projects & GitHub Repos
 > **Check out live demos and code in my [GitHub repositories](https://github.com/Pratik261201?tab=repositories).**
 
-| Project Title                                    | Description                                                                                           | Tech Stack                          | Link                                         |
-|--------------------------------------------------|-------------------------------------------------------------------------------------------------------|-------------------------------------|----------------------------------------------|
-| **Industrial Health Monitoring Robot**           | Real-time monitoring of industrial safety parameters (temperature, gas, vibration).                   | ESP32, Raspberry Pi, Python, ROS    | [YouTube Demo](https://youtu.be/Krsu61oUkgM?si=sJg1nd_KZfckb5jD) |
-| **End-to-End Encryption in IoT**                 | Implemented SHA-256 + MQTT over TLS on ESP32; reduced data vulnerability by **40%**.                  | ESP32, MQTT-TLS, C, Python          | [Repo](https://github.com/Pratik261201/IoT-Encryption)         |
-| **Wireless Protocol Analysis with ESP32**        | Comparative study of MQTT-TLS, HTTPS, WebSocket, UDP, AMQP, TCP for latency, security & throughput.    | ESP32, Node-RED, Wireshark Analysis | [Repo](https://github.com/Pratik261201/Wireless-Analysis)      |
-| **Computer Vision for Smart Lighting Control**   | Developed a gesture-controlled lighting interface using OpenCV; enhanced user interaction.             | Python, OpenCV, ESP32, C            | [YouTube Short](https://www.youtube.com/shorts/eOIKBk9tMK0?si=KWPNB37fiVICQIIk) |
-| **Desktop Assistant**                            | Voice-command recognition, email/web automation, system control, ML-based tasks (Speech-to-Text).     | Python, TensorFlow, SpeechRecognition | [Repo](https://github.com/Pratik261201/Voice-Activated-AI-Personal-Assistant) |
+<div align="center" style="overflow-x:auto; margin: 0 auto; max-width: 100%;">
+  <table>
+    <thead>
+      <tr>
+        <th align="left">Project Title</th>
+        <th align="left">Description</th>
+        <th align="left">Tech Stack</th>
+        <th align="left">Link</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>Industrial Health Monitoring Robot</strong></td>
+        <td>Real-time monitoring of industrial safety parameters (temperature, gas, vibration).</td>
+        <td>ESP32, Raspberry Pi, Python, ROS</td>
+        <td>(https://youtu.be/Krsu61oUkgM?si=sJg1nd_KZfckb5jD)</td>
+      </tr>
+      <tr>
+        <td><strong>End-to-End Encryption in IoT</strong></td>
+        <td>Implemented SHA-256 + MQTT over TLS on ESP32; reduced data vulnerability by <strong>40%</strong>.</td>
+        <td>ESP32, MQTT-TLS, C, Python</td>
+        <td>—</td>
+      </tr>
+      <tr>
+        <td><strong>Wireless Protocol Analysis with ESP32</strong></td>
+        <td>Comparative study of MQTT-TLS, HTTPS, WebSocket, UDP, AMQP, TCP for latency, security & throughput.</td>
+        <td>ESP32, Node-RED, Wireshark Analysis</td>
+        <td>—</td>
+      </tr>
+      <tr>
+        <td><strong>Computer Vision for Smart Lighting Control</strong></td>
+        <td>Developed a gesture-controlled lighting interface using OpenCV; enhanced user interaction.</td>
+        <td>Python, OpenCV, ESP32, C</td>
+        <td>[Repo](https://www.youtube.com/shorts/eOIKBk9tMK0?si=KWPNB37fiVICQIIk)</td>
+      </tr>
+      <tr>
+        <td><strong>Desktop Assistant</strong></td>
+        <td>Voice-command recognition, email/web automation, system control, ML-based tasks (Speech-to-Text).</td>
+        <td>Python, TensorFlow, SpeechRecognition</td>
+        <td>[Repo](https://github.com/Pratik261201/Voice-Activated-AI-Personal-Assistant)</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
-<div align="center">
-  <a href="https://github.com/Pratik261201?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore%20More%20Projects-blueviolet?style=for-the-badge&logo=github" alt="More Projects"/>
+<p align="center" style="margin-top: 12px;">
+  <a href="https://github.com/Pratik261201?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/Explore%20More%20Projects-blueviolet?style=for-the-badge&logo=github" alt="More Projects Badge"/>
   </a>
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/PGa2wLbnAE62Q/giphy.gif" width="300" alt="projects-divider"/>
-</div>
+</p>
 
 ---
 
-## 🛠️ Technical Skills & Gauges 🛠️
-<div align="center">
-  <img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" width="50" alt="skills-animation"/>
-</div>
-
+<!-- Section Banner -->
 <p align="center">
+  <img src="https://img.shields.io/badge/🛠️-Technical%20Skills%20%26%20Gauges-339933?style=for-the-badge&logo=visual-studio-code" alt="Skills Banner"/>
+</p>
+
+## 🛠️ Technical Skills & Gauges
+
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
   <img src="https://img.shields.io/badge/ESP32-2C8EBB?style=flat-square&logo=espressif" alt="ESP32"/>
   <img src="https://img.shields.io/badge/Arduino-D83A17?style=flat-square&logo=arduino" alt="Arduino"/>
   <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberry-pi" alt="Raspberry Pi"/>
@@ -192,7 +231,7 @@ Madhav Institute of Technology & Science (Nov 2022 – Jun 2026)
 <summary>Skill Proficiency Gauges 🔍</summary>
 
 | Skill                    | Proficiency | Gauge                                            |
-|--------------------------|-------------|---------------------------------------------------|
+|--------------------------|-------------|--------------------------------------------------|
 | **Embedded Systems**     | 90%         | <progress value="0.90" max="1" style="width: 200px;"></progress> |
 | **IoT Protocols**        | 85%         | <progress value="0.85" max="1" style="width: 200px;"></progress> |
 | **Python Programming**   | 80%         | <progress value="0.80" max="1" style="width: 200px;"></progress> |
@@ -203,40 +242,36 @@ Madhav Institute of Technology & Science (Nov 2022 – Jun 2026)
 
 </details>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7ZeTmU77UlPyeR2w/giphy.gif" width="300" alt="divider"/>
-</div>
-
 ---
 
-## 🌐 GitHub Stats & Activity 📊
-<div align="center">
-  <img src="https://media.giphy.com/media/3oEdv8m3XLGYHRQGls/giphy.gif" width="50" alt="stats-animation"/>
-</div>
-
+<!-- Section Banner -->
 <p align="center">
-  <a href="https://github.com/Pratik261201">
+  <img src="https://img.shields.io/badge/🌐-GitHub%20Stats%20%26%20Activity-181717?style=for-the-badge&logo=github" alt="Stats Banner"/>
+</p>
+
+## 🌐 GitHub Stats & Activity
+
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px;">
+  <a href="https://github.com/Pratik261201" target="_blank" title="GitHub Stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pratik261201&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Pratik's GitHub Stats" />
   </a>
-  <a href="https://github.com/Pratik261201">
+  <a href="https://github.com/Pratik261201" target="_blank" title="Top Languages">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik261201&hide=html,css&layout=compact&theme=radical" alt="Top Languages" />
   </a>
 </p>
 
-<p align="center">
+<p align="center" style="margin-top: 12px;">
   <img src="https://komarev.com/ghpvc/?username=Pratik261201&style=flat-square&color=blue" alt="Profile Views"/>
 </p>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/l3vR1c7Gz9hYJdThO/giphy.gif" width="300" alt="divider"/>
-</div>
-
 ---
 
-## 🏆 Certifications & Achievements 🏅
-<div align="center">
-  <img src="https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif" width="50" alt="cert-animation"/>
-</div>
+<!-- Section Banner -->
+<p align="center">
+  <img src="https://img.shields.io/badge/🏆-Certifications%20%26%20Achievements-EA4335?style=for-the-badge&logo=achievement" alt="Achievements Banner"/>
+</p>
+
+## 🏆 Certifications & Achievements
 
 <details>
 <summary>Click to Expand 🎖️</summary>
@@ -250,68 +285,66 @@ Madhav Institute of Technology & Science (Nov 2022 – Jun 2026)
 
 </details>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/3oFzmkkGeK9KF6pRdg/giphy.gif" width="300" alt="divider"/>
-</div>
-
 ---
 
-## 🔎 Research Interests & Focus Areas 🔍
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="50" alt="focus-animation"/>
-</div>
+<!-- Section Banner -->
+<p align="center">
+  <img src="https://img.shields.io/badge/🔎-Research%20Interests%20%26%20Focus%20Areas-4285F4?style=for-the-badge&logo=google-scholar" alt="Research Interests Banner"/>
+</p>
 
+## 🔎 Research Interests & Focus Areas
+<div align="left" style="max-width: 800px; margin: auto;">
 - **Deep Learning & Neural Networks**  
-- **Edge Computing & Distributed Systems**  
+- **Edge Computing &Distributed Systems**  
 - **Security in IoT** (End-to-End Encryption, SHA-256, AES-256)  
 - **Real-time Sensor Networks**  
 - **AI / ML Applications in Resource-Constrained Environments**  
-- **Microcontroller-Based Systems** (ESP32, Arduino, Raspberry Pi, Jetson Nano, Jetson Orin)
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3o6Zt8MgUuvSbkZYWc/giphy.gif" width="300" alt="divider"/>
+- **Microcontroller-Based Systems** (ESP32, Arduino, Raspberry Pi, Jetson Nano, Jetson Orin)  
 </div>
 
 ---
 
-## 🤝 Professional Affiliations 🤝
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7aD5tv1ogNBtDhDi/giphy.gif" width="50" alt="affiliation-animation"/>
-</div>
+<!-- Section Banner -->
+<p align="center">
+  <img src="https://img.shields.io/badge/🤝-Professional%20Affiliations-007ACC?style=for-the-badge&logo=ieee" alt="Affiliations Banner"/>
+</p>
 
+## 🤝 Professional Affiliations
+<div align="left" style="max-width: 800px; margin: auto;">
 - Student Member, **IEEE Power & Energy Society (PES)** (Member #100040895)  
 - Member, **IEEE Computer Society (CS)** & **IoT Community**  
-- Reviewer, IEEE IoT Conferences & Journals (2024–Present)
-
-<div align="center">
-  <img src="https://media.giphy.com/media/xT0xezQGU5xCDJuCPe/giphy.gif" width="300" alt="divider"/>
+- Reviewer, IEEE IoT Conferences & Journals (2024–Present)  
 </div>
 
 ---
 
-## 📫 Contact & Connect 📫
-<div align="center">
-  <img src="https://media.giphy.com/media/l0ExdMHUDKteztyfe/giphy.gif" width="50" alt="contact-animation"/>
-</div>
-
+<!-- Section Banner -->
 <p align="center">
-  <a href="mailto:pratikchouragadey26@gmail.com">
+  <img src="https://img.shields.io/badge/📫-Contact%20%26%20Connect-5319E7?style=for-the-badge&logo=telegram" alt="Contact Banner"/>
+</p>
+
+## 📫 Contact & Connect
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
+  <a href="mailto:pratikchouragadey26@gmail.com" title="Send me an email">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
   </a>
-  <a href="https://linkedin.com/in/pratik-chouragadey-4a6b64286/">
+  <a href="https://linkedin.com/in/pratik-chouragadey-4a6b64286/" target="_blank" title="Visit my LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
-  <a href="https://github.com/Pratik261201">
+  <a href="https://github.com/Pratik261201" target="_blank" title="View my GitHub">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
   </a>
-  <a href="https://pratik261201.github.io/">
+  <a href="https://pratik261201.github.io/" target="_blank" title="Visit my Portfolio">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Firefox&logoColor=white" alt="Portfolio Badge" />
   </a>
 </p>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif" width="300" alt="divider"/>
-</div>
+---
+
+<!-- Section Banner -->
+<p align="center">
+  <img src="https://img.shields.io/badge/🎉-Fun%20Facts%20%26%20Quick%20Animations-FF4081?style=for-the-badge&logo=giphy" alt="Fun Facts Banner"/>
+</p>
 
 <details>
 <summary>Fun Facts & Quick Animations 🎉</summary>
@@ -334,7 +367,7 @@ Madhav Institute of Technology & Science (Nov 2022 – Jun 2026)
 
 ---
 
-<div align="center">
+<div align="center" style="margin-top: 20px;">
   <p>“Innovation distinguishes between a leader and a follower.” – Steve Jobs</p>
   <img src="https://c.tenor.com/0_SrVzcVY20AAAAC/heart-hands.gif" alt="heart-hands" width="100"/>
 </div>
