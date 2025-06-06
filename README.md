@@ -40,19 +40,39 @@ Madhav Institute of Technology & Science (Nov 2022 – Jun 2026)
 ---
 
 ## 📜 Publications & Research
-- **“Smart Home Automation with MQTT Using ESP32 and Node-RED”**  
-  Pratik Chouragadey, Bhavna Rathore, Gaurav Khare  
-  *ICPC²T 2025 – IEEE Scopus-Indexed Conference*, NIT Raipur (Jan 20–22, 2025)  
-  [🔗 Conference Paper](http://icpc2t.nitrr.ac.in/)  
+
+<div align="center">
+  <h3>📘 Featured Publication</h3>
+</div>
+
+<div align="center" style="margin-top: 10px;">
+  <img src="https://img.shields.io/badge/Smart_Home_Automation-Node--RED%20|%20ESP32-blue?style=for-the-badge&logo=home-assistant&logoColor=white" />
+</div>
+
+### “Smart Home Automation with MQTT Using ESP32 and Node-RED”  
+**Authors:** Pratik Chouragadey, Bhavna Rathore, Gaurav Khare  
+🗓️ *ICPC²T 2025 – IEEE Scopus-Indexed Conference*, NIT Raipur (Jan 20–22, 2025)  
+
+<div align="center">
+  <a href="http://icpc2t.nitrr.ac.in/" target="_blank">
+    <img src="https://img.shields.io/badge/Conference%20Website-1A1A1A?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Conference Link" />
+  </a>
+  <a href="https://ieeexplore.ieee.org/document/10958730" target="_blank">
+    <img src="https://img.shields.io/badge/View%20on%20IEEE-003366?style=for-the-badge&logo=IEEE&logoColor=white" alt="IEEE Link" />
+  </a>
+  <a href="https://scholar.google.com/citations?user=J14FK-8AAAAJ&hl=en&oi=ao" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar" />
+  </a>
+</div>
 
 <details>
-<summary>Research Paper Abstract 📖</summary>
+<summary><b>📖 Research Paper Abstract (click to expand)</b></summary>
 
 > We implemented a robust MQTT-based smart home solution utilizing ESP32 microcontrollers and Node-RED for visual flow-based control. The system leverages secure MQTT-TLS channels, enabling low-latency bidirectional communication between devices and the dashboard. Our prototype demonstrates real-time monitoring and automation of lighting, HVAC, and security cameras, with remote control over mobile/web interfaces. Performance evaluations indicate an average latency of <50ms under normal Wi-Fi conditions.  
 >  
 > **Keywords**: MQTT, ESP32, Node-RED, Smart Home, IoT Security, Real-time Automation.
-
 </details>
+
 
 ---
 
@@ -91,13 +111,13 @@ Madhav Institute of Technology & Science (Nov 2022 – Jun 2026)
 ## 🚀 Notable Projects & GitHub Repos
 > **Check out live demos and code in my [GitHub repositories](https://github.com/Pratik261201?tab=repositories).**
 
-| Project Title                                    | Description                                                                                           | Tech Stack                          | Repo Link                                         |
+| Project Title                                    | Description                                                                                           | Tech Stack                          | Link                                         |
 |--------------------------------------------------|-------------------------------------------------------------------------------------------------------|-------------------------------------|---------------------------------------------------|
-| **Industrial Health Monitoring Robot**           | Real-time monitoring of industrial safety parameters (temperature, gas, vibration).                   | ESP32, Raspberry Pi, Python, ROS    | [Repo](https://github.com/Pratik261201/HealthRobot) |
-| **End-to-End Encryption in IoT**                 | Implemented SHA-256 + MQTT over TLS on ESP32; reduced data vulnerability by **40%**.                  | ESP32, MQTT-TLS, C, Python          | [Repo](https://github.com/Pratik261201/IoT-Encryption) |
-| **Wireless Protocol Analysis with ESP32**        | Comparative study of MQTT-TLS, HTTPS, WebSocket, UDP, AMQP, TCP for latency, security & throughput.    | ESP32, Node-RED, Wireshark Analysis | [Repo](https://github.com/Pratik261201/Wireless-Analysis) |
-| **Computer Vision for Smart Lighting Control**   | Developed a gesture-controlled lighting interface using OpenCV; enhanced user interaction.             | Python, OpenCV, ESP32, C            | [Repo](https://github.com/Pratik261201/Smart-Lighting) |
-| **Desktop Assistant**                            | Voice-command recognition, email/web automation, system control, ML-based tasks (Speech-to-Text).     | Python, TensorFlow, SpeechRecognition | [Repo](https://github.com/Pratik261201/Desktop-Assistant) |
+| **Industrial Health Monitoring Robot**           | Real-time monitoring of industrial safety parameters (temperature, gas, vibration).                   | ESP32, Raspberry Pi, Python, ROS    | (https://youtu.be/Krsu61oUkgM?si=sJg1nd_KZfckb5jD) |
+| **End-to-End Encryption in IoT**                 | Implemented SHA-256 + MQTT over TLS on ESP32; reduced data vulnerability by **40%**.                  | ESP32, MQTT-TLS, C, Python          |                                               |
+| **Wireless Protocol Analysis with ESP32**        | Comparative study of MQTT-TLS, HTTPS, WebSocket, UDP, AMQP, TCP for latency, security & throughput.    | ESP32, Node-RED, Wireshark Analysis | |
+| **Computer Vision for Smart Lighting Control**   | Developed a gesture-controlled lighting interface using OpenCV; enhanced user interaction.             | Python, OpenCV, ESP32, C            | [Repo]([https://github.com/Pratik261201/Smart-Lighting](https://www.youtube.com/shorts/eOIKBk9tMK0?si=KWPNB37fiVICQIIk)) |
+| **Desktop Assistant**                            | Voice-command recognition, email/web automation, system control, ML-based tasks (Speech-to-Text).     | Python, TensorFlow, SpeechRecognition | [Repo]([https://github.com/Pratik261201/Desktop-](https://github.com/Pratik261201/Voice-Activated-AI-Personal-Assistant)Assistant) |
 
 <p align="center">
   <a href="https://github.com/Pratik261201?tab=repositories">
@@ -175,12 +195,12 @@ Madhav Institute of Technology & Science (Nov 2022 – Jun 2026)
 ---
 
 ## 🔎 Research Interests & Focus Areas
-- **Smart Cities & Buildings**  
+- **Deep Learning & Neural Networks**  
 - **Edge Computing &Distributed Systems**  
 - **Security in IoT** (End-to-End Encryption, SHA-256, AES-256)  
 - **Real-time Sensor Networks**  
 - **AI / ML Applications in Resource-Constrained Environments**  
-- **Microcontroller-Based Systems** (ESP32, Arduino, Raspberry Pi, Jetson Nano)
+- **Microcontroller-Based Systems** (ESP32, Arduino, Raspberry Pi, Jetson Nano, Jetson Orin)
 
 ---
 
@@ -202,7 +222,11 @@ Madhav Institute of Technology & Science (Nov 2022 – Jun 2026)
   <a href="https://github.com/Pratik261201">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
   </a>
+  <a href="https://pratik261201.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Firefox&logoColor=white" alt="Portfolio Badge" />
+  </a>
 </p>
+
 
 ---
 
