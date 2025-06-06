@@ -15,8 +15,6 @@
 ## 🏷️ About Me
 
 <div align="center">
-  
-<h2>Hey there! 👋 I'm <span style="color:#3498db"><b>Pratik Chouragadey</b></span></h2>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00C4FF&width=435&lines=IoT+Enthusiast+%7C+Tech+Researcher+%7C+Edge+AI+Learner;Passionate+about+Smart+Homes+%26+Robotics;Open+Source+Contributor+%7C+Community+Builder" alt="Typing SVG" />
 
