@@ -1,7 +1,7 @@
 <!--
   ┌────────────────────────────────────────────────────────────────────┐
   │                                                                    │
-  │          Hi there, I’m Pratik Chouragadey 👋 🛠️                      │
+  │          Hi there, I’m Pratik Chouragadey 👋 🛠️                   │
   │                                                                    │
   │  Welcome to my GitHub profile! I’m an IoT enthusiast, research     │
   │  intern, and budding embedded systems engineer with a passion for  │
