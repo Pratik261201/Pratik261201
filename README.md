@@ -12,25 +12,65 @@
   <img src="https://img.shields.io/badge/🏷️-About%20Me-0A66C2?style=for-the-badge&logo=github" alt="About Me Banner"/>
 </p>
 
-<div align="left" style="max-width: 800px; margin: auto; font-size: 16px; line-height: 1.7;">
-🎓 I’m currently pursuing a B.Tech in Internet of Things (IoT) at
-Madhav Institute of Technology & Science, Gwalior (2022 – 2026).
+## 🏷️ About Me
 
-🔬 I’m honored to serve as a SURGE Research Intern at IIT Kanpur, working under
-Prof. Dr. Ankush Sharma on advanced IoT architectures and intelligent sensor networks.
+<div align="center">
+  
+<h2>Hey there! 👋 I'm <span style="color:#3498db"><b>Pratik Chouragadey</b></span></h2>
 
-🛠️ My technical interests lie at the intersection of Smart Homes & Buildings,
-Edge AI, IoT Security, and Embedded Machine Learning for resource-constrained systems.
-
-🚀 I actively contribute to the tech community as the
-Vice-Chair of IEEE PES MITS Student Chapter and formerly led web operations as Webmaster
-(WordPress, SEO, and UX Design).
-
-📬 Get in touch
-✉️ pratikchouragadey26@gmail.com | 📱 +91-7566090544
-🔗 LinkedIn • GitHub
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00C4FF&width=435&lines=IoT+Enthusiast+%7C+Tech+Researcher+%7C+Edge+AI+Learner;Passionate+about+Smart+Homes+%26+Robotics;Open+Source+Contributor+%7C+Community+Builder" alt="Typing SVG" />
 
 </div>
+
+---
+
+### 🎓 Education & Internships
+- 🎓 Pursuing **B.Tech in Internet of Things (IoT)**  
+  *Madhav Institute of Technology & Science, Gwalior (2022 – 2026)*  
+- 🔬 **SURGE Research Intern at IIT Kanpur**  
+  Working on advanced **IoT architectures** and **smart sensing networks** under *Prof. Dr. Ankush Sharma*
+
+---
+
+### 💡 Interests & Expertise
+- 💻 **Smart Homes & Buildings**, **Edge AI**, **IoT Security**
+- 📟 Embedded systems with **Arduino**, **ESP32**, **Raspberry Pi**
+- 🧠 **Machine Learning/Deep Learning** in **resource-constrained** environments
+- ⚡ Python, Node-RED, MQTT, C++, REST APIs, MicroPython
+
+---
+
+### 🛠️ Community Involvement
+- 🤝 **Vice-Chair** – IEEE PES MITS Student Chapter  
+- 🌐 Former **Webmaster** – WordPress · SEO · UI/UX  
+- 🗣️ Active in organizing and mentoring IoT workshops and innovation events
+
+---
+
+### 🔗 Let's Connect!
+
+<p align="center">
+  <a href="https://github.com/Pratik261201" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/pratik-chouragadey-4a6b64286/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:pratikchouragadey26@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### ☎️ Contact Info
+- 📧 **Email**: [pratikchouragadey26@gmail.com](mailto:pratikchouragadey26@gmail.com)  
+- 📱 **Phone**: +91-7566090544  
+
+---
+
+> 🚀 *"Always learning, always building. Let’s create the future of IoT together!"*
+
 
 ---
 
