@@ -1,18 +1,8 @@
-<!--
-  ┌────────────────────────────────────────────────────────────────────┐
-  │                                                                    │
-  │          Hi there, I’m Pratik Chouragadey 👋 🛠️                   │
-  │                                                                    │
-  │  Welcome to my GitHub profile! I’m an IoT enthusiast, research     │
-  │  intern, and budding embedded systems engineer with a passion for  │
-  │  smart automation, AI/ML, and edge computing. Explore my projects, │
-  │  publications, and skills below.                                   │
-  │                                                                    │
-  └────────────────────────────────────────────────────────────────────┘
--->
+<h1 align="center">Hi 👋, I'm Pratik Chouragadey</h1>
+<h3 align="center">IoT Enthusiast | Embedded Systems Developer | Research Intern @ IIT Kanpur | IEEE Student Member</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="coding-animation" width="600"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=IoT%20Developer%20%7C%20Edge%20AI%20Learner%20%7C%20Researcher%20%7C%20Tech%20Blogger&center=true&width=500&height=45">
 </p>
 
 ---
