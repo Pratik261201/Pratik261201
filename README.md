@@ -124,9 +124,10 @@ Madhav Institute of Technology & Science (Nov 2022 – Jun 2026)
   <a href="http://icpc2t.nitrr.ac.in/" target="_blank" title="Conference Website">
     <img src="https://img.shields.io/badge/Conference%20Website-1A1A1A?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Conference Link" />
   </a>
-  <a href="https://ieeexplore.ieee.org/document/10958730" target="_blank" title="View on IEEE Xplore">
-    <img src="https://img.shields.io/badge/View%20on%20IEEE-003366?style=for-the-badge&logo=IEEE&logoColor=white" alt="IEEE Link" />
-  </a>
+<a href="https://ieeexplore.ieee.org/document/10958730" target="_blank" title="View on IEEE Xplore">
+  <img src="https://img.shields.io/badge/View%20on%20IEEE-003366?style=for-the-badge&logoColor=white" alt="IEEE Xplore" />
+</a>
+
   <a href="https://scholar.google.com/citations?user=J14FK-8AAAAJ&hl=en&oi=ao" target="_blank" title="Google Scholar Profile">
     <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar Badge" />
   </a>
