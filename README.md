@@ -246,6 +246,16 @@ Madhav Institute of Technology & Science (Nov 2022 – Jun 2026)
   </table>
 </div>
 
+<div align="center" style="overflow-x:auto; margin: 0 auto; max-width: 100%;"> <table> <thead> <tr> <th align="left">Project Title</th> <th align="left">Description</th> <th align="left">Tech Stack</th> <th align="left">Link</th> </tr> </thead> <tbody> <tr> <td><strong>GNSS Spoofing Detection & Dual-Band Resilient GNSS System</strong></td> <td>Built a failover algorithm that detects spoofed GPS L1 (1575.42 MHz) signals and automatically switches to NavIC L5 (1176.45 MHz), ensuring accurate coordinates and PPS sync for SCADA, EV, and critical systems.</td> <td>HackRF One, gps-sdr-sim, Python, Bash, RINEX/NMEA/UBX, Linux</td> <td>—</td> </tr> <tr> <td><strong>GPS Spoofing Simulation with HackRF One</strong></td> <td>Simulated GPS spoofing attacks across 50+ global coordinates using HackRF One and gps-sdr-sim. Developed Bash automation for dynamic spoof paths and binary generation from RINEX ephemeris data.</td> <td>Linux, SDR, Bash scripting, GNSS theory, RF shielding</td> <td>—</td> </tr> <tr> <td><strong>Microsecond-Precision NTP Time Sync</strong></td> <td>Engineered a sub-10 µs synchronization system using Raspberry Pi and Masibus NTP server, leveraging PPS signal over UART GPIO and Chrony for ultra-precise time alignment.</td> <td>Raspberry Pi OS, PPS over UART GPIO, Chrony, Linux</td> <td>—</td> </tr> <tr> <td><strong>Raspberry Pi 5G Internet with Quectel RM520N-GL</strong></td> <td>Enabled PCIe-based 5G connectivity on Raspberry Pi 5 using Quectel RM520N-GL and Waveshare HAT+. Configured dial-up, APN settings, GPIO-based DIP control, and monitored link stability with INA219.</td> <td>Embedded Linux, AT Commands, GPIO, Quectel RM520N-GL, I2C sensors</td> <td>—</td> </tr> </tbody> </table> </div>
+
+
+
+
+
+
+
+
+
 <p align="center" style="margin-top: 12px;">
   <a href="https://github.com/Pratik261201?tab=repositories" target="_blank">
     <img src="https://img.shields.io/badge/Explore%20More%20Projects-blueviolet?style=for-the-badge&logo=github" alt="More Projects Badge"/>
