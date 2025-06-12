@@ -370,7 +370,7 @@ Madhav Institute of Technology & Science (Nov 2022 – Jun 2026)
 <img src="https://img.shields.io/badge/SHA--256-5E35B1?style=flat-square" alt="SHA-256"/> <img src="https://img.shields.io/badge/AES--256-C62828?style=flat-square" alt="AES-256"/> <img src="https://img.shields.io/badge/Secure%20MQTT-00BFA5?style=flat-square" alt="Secure MQTT"/> <img src="https://img.shields.io/badge/Penetration%20Testing-37474F?style=flat-square" alt="IoT Penetration Testing"/> <img src="https://img.shields.io/badge/RF%20Shielding-006400?style=flat-square" alt="RF Shielding"/>
 
 ### ⏱️ Time Sync & NTP  
-<img src="https://img.shields.io/badge/Chrony-000?style=flat-square" alt="Chrony"/> <img src="https://img.shields.io/badge/NTP%20Daemons-blue?style=flat-square" alt="NTP Daemons"/> <img src="https://img.shields.io/badge/PPS_UART-grey?style=flat-square" alt="PPS over UART"/> <img src="https://img.shields.io/badge/Masibus%20NTP%20Server-red?style=flat-square" alt="Masibus NTP"/>
+<img src="https://img.shields.io/badge/Chrony-000?style=flat-square" alt="Chrony"/> <img src="https://img.shields.io/badge/NTP%20Daemons-blue?style=flat-square" alt="NTP Daemons"/> <img src="https://img.shields.io/badge/PPS_UART-grey?style=flat-square" alt="PPS over UART"/> <img src="https://img.shields.io/badge/Masibus%20NTP%20Server-red?style=flat-square" alt="Masibus NTP"/> <img src="https://img.shields.io/badge/IEEE%201588-PTP-green?style=flat-square" alt="IEEE 1588 PTP"/>
 
 ### 🖥️ Software & IoT Platforms  
 <img src="https://img.shields.io/badge/Node--RED-0F9D58?style=flat-square&logo=node-red" alt="Node-RED"/> <img src="https://img.shields.io/badge/Arduino%20IDE-00979D?style=flat-square" alt="Arduino IDE"/> <img src="https://img.shields.io/badge/HiveMQ-0E87F2?style=flat-square" alt="HiveMQ"/> <img src="https://img.shields.io/badge/ThingSpeak-FF6600?style=flat-square" alt="ThingSpeak"/> <img src="https://img.shields.io/badge/BlynkIoT-FF4B4B?style=flat-square" alt="BlynkIoT"/> <img src="https://img.shields.io/badge/PageKite-00897B?style=flat-square" alt="PageKite"/> <img src="https://img.shields.io/badge/EMQX-009688?style=flat-square" alt="EMQX"/>
@@ -389,9 +389,6 @@ Madhav Institute of Technology & Science (Nov 2022 – Jun 2026)
 
 ### 🤖 Machine Learning & Deep Learning  
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow" alt="TensorFlow"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch" alt="PyTorch"/> <img src="https://img.shields.io/badge/CUDA-lightgrey?style=flat-square&logo=nvidia" alt="CUDA"/> <img src="https://img.shields.io/badge/TorchVision-FF6A00?style=flat-square" alt="TorchVision"/> <img src="https://img.shields.io/badge/CNN-4285F4?style=flat-square" alt="CNN"/> <img src="https://img.shields.io/badge/PINN-FFC107?style=flat-square" alt="PINN"/> <img src="https://img.shields.io/badge/LNN-4CAF50?style=flat-square" alt="LNN"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv" alt="OpenCV"/> <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas" alt="pandas"/> <img src="https://img.shields.io/badge/boruta-8E44AD?style=flat-square" alt="boruta"/>
-
-
-
 
 <details>
 <summary>🔍 Skill Proficiency Gauges</summary>
