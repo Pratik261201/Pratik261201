@@ -247,16 +247,100 @@ Madhav Institute of Technology & Science (Nov 2022 – Jun 2026)
 </div>
 
 
-#🛰️ Advanced Embedded & Networking Projects
-<div align="center" style="overflow-x:auto; margin: 0 auto; max-width: 100%;"> <table> <thead> <tr> <th align="left">Project Title</th> <th align="left">Description</th> <th align="left">Tech Stack</th> <th align="left">Link</th> </tr> </thead> <tbody> <tr> <td><strong>GNSS Spoofing Detection & Dual-Band Resilient GNSS System</strong></td> <td>Built a failover algorithm that detects spoofed GPS L1 (1575.42 MHz) signals and automatically switches to NavIC L5 (1176.45 MHz), ensuring accurate coordinates and PPS sync for SCADA, EV, and critical systems.</td> <td>HackRF One, gps-sdr-sim, Python, Bash, RINEX/NMEA/UBX, Linux</td> <td>—</td> </tr> <tr> <td><strong>GPS Spoofing Simulation with HackRF One</strong></td> <td>Simulated GPS spoofing attacks across 50+ global coordinates using HackRF One and gps-sdr-sim. Developed Bash automation for dynamic spoof paths and binary generation from RINEX ephemeris data.</td> <td>Linux, SDR, Bash scripting, GNSS theory, RF shielding</td> <td>—</td> </tr> <tr> <td><strong>Microsecond-Precision NTP Time Sync</strong></td> <td>Engineered a sub-10 µs synchronization system using Raspberry Pi and Masibus NTP server, leveraging PPS signal over UART GPIO and Chrony for ultra-precise time alignment.</td> <td>Raspberry Pi OS, PPS over UART GPIO, Chrony, Linux</td> <td>—</td> </tr> <tr> <td><strong>Raspberry Pi 5G Internet with Quectel RM520N-GL</strong></td> <td>Enabled PCIe-based 5G connectivity on Raspberry Pi 5 using Quectel RM520N-GL and Waveshare HAT+. Configured dial-up, APN settings, GPIO-based DIP control, and monitored link stability with INA219.</td> <td>Embedded Linux, AT Commands, GPIO, Quectel RM520N-GL, I2C sensors</td> <td>—</td> </tr> </tbody> </table> </div>
+## 🚀 Notable Projects & GitHub Repos
 
+> **Check out live demos and code in my [GitHub repositories](https://github.com/Pratik261201?tab=repositories).**
 
+<div align="center">
+  <img src="https://img.shields.io/badge/🚀-Notable%20Projects%20&%20GitHub%20Repos-FF6F00?style=for-the-badge" alt="Projects Banner"/>
+</div>
 
-
-
-
-
-
+<div align="center" style="overflow-x:auto; margin:0 auto; max-width:100%;">
+<table>
+  <thead>
+    <tr style="background-color:#f0f0f0;">
+      <th align="left">Project</th>
+      <th align="left">Description</th>
+      <th align="left">Tech Stack</th>
+      <th align="left">Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        🛰️ **GNSS Spoofing Detection & Dual-Band Resilient GNSS System**<br>
+        <em>May 2025 – Present</em>
+      </td>
+      <td>
+        Built a failover algorithm to detect spoofed GPS L1 (1575.42 MHz) signals and automatically switch to NavIC L5 (1176.45 MHz), ensuring accurate coordinates and PPS sync for SCADA, EV, and other critical systems.
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/HackRF%20One-000?style=flat-square" alt="HackRF One"/> 
+        <img src="https://img.shields.io/badge/gps--sdr--sim-000?style=flat-square" alt="gps-sdr-sim"/> 
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python" alt="Python"/> 
+        <img src="https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash" alt="Bash"/> 
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux" alt="Linux"/>
+      </td>
+      <td>
+        [Repo](https://github.com/Pratik261201/NavicGPS-Config-Tool-)
+      </td>
+    </tr>
+    <tr>
+      <td>
+        🛰️ **GPS Spoofing Simulation with HackRF One**<br>
+        <em>Apr 2025 – May 2025</em>
+      </td>
+      <td>
+        Simulated GPS spoofing attacks across 50+ global coordinates using HackRF One and gps-sdr-sim. Developed Bash automation for dynamic spoof paths and binary generation from RINEX ephemeris data.
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux" alt="Linux"/> 
+        <img src="https://img.shields.io/badge/SDR-000?style=flat-square" alt="SDR"/> 
+        <img src="https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash" alt="Bash"/> 
+        <img src="https://img.shields.io/badge/GNSS-000?style=flat-square" alt="GNSS"/>
+      </td>
+      <td>
+        [Repo](https://github.com/Pratik261201/Gps-spoofing-HackRF)
+      </td>
+    </tr>
+    <tr>
+      <td>
+        🕒 **Microsecond-Precision NTP Time Sync**<br>
+        <em>Mar 2025 – Apr 2025</em>
+      </td>
+      <td>
+        Engineered a sub-10 µs synchronization system using Raspberry Pi and Masibus NTP server. Leveraged PPS over UART GPIO with Chrony for ultra-precise time alignment.
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Raspberry%20Pi-CC0000?style=flat-square&logo=raspberry-pi" alt="Raspberry Pi"/> 
+        <img src="https://img.shields.io/badge/Chrony-000?style=flat-square" alt="Chrony"/> 
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux" alt="Linux"/>
+      </td>
+      <td>
+        [Repo](https://github.com/Pratik261201/raspberrypi-ntp-time-sync)
+      </td>
+    </tr>
+    <tr>
+      <td>
+        📶 **Raspberry Pi 5G Internet with Quectel RM520N-GL**<br>
+        <em>Feb 2025 – Mar 2025</em>
+      </td>
+      <td>
+        Enabled PCIe-based 5G connectivity on Raspberry Pi 5 using Quectel RM520N-GL and Waveshare HAT+. Configured dial-up, APN settings, GPIO-based DIP control, and monitored link stability via INA219.
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux" alt="Linux"/> 
+        <img src="https://img.shields.io/badge/Quectel-000?style=flat-square" alt="Quectel"/> 
+        <img src="https://img.shields.io/badge/GPIO-000?style=flat-square" alt="GPIO"/> 
+        <img src="https://img.shields.io/badge/I2C-007ACC?style=flat-square" alt="I2C"/>
+      </td>
+      <td>
+        [Repo](https://github.com/Pratik261201/raspberry-pi-5g-quectel-module)
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
 
 <p align="center" style="margin-top: 12px;">
   <a href="https://github.com/Pratik261201?tab=repositories" target="_blank">
