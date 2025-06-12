@@ -393,18 +393,23 @@ Madhav Institute of Technology & Science (Nov 2022 – Jun 2026)
 <details>
 <summary>🔍 Skill Proficiency Gauges</summary>
 
-| Skill                    | Proficiency | Gauge                                    |
-|--------------------------|-------------|------------------------------------------|
-| **Embedded Systems**     | 90%         | ██████████░░                             |
-| **IoT Protocols**        | 85%         | █████████░░░                             |
-| **Python Programming**   | 80%         | ████████░░░                              |
-| **C / C++ Programming**  | 75%         | ███████░░░░                              |
-| **Machine Learning / DL**| 70%         | ██████░░░░░                              |
-| **Web Development**      | 65%         | █████░░░░░░                              |
-| **Cybersecurity (IoT)**  | 60%         | ████░░░░░░░                              |
+| Skill                                    | Proficiency | Gauge        |
+| ---------------------------------------- | ----------- | ------------ |
+| **Embedded Systems & Hardware**          | 90%         | ██████████░░ |
+| **GNSS & SDR**                           | 85%         | █████████░░░ |
+| **Networking & Communication Protocols** | 88%         | ██████████░░ |
+| **Cybersecurity & IoT Security**         | 80%         | ████████░░░  |
+| **Time Sync & NTP (incl. IEEE 1588)**    | 75%         | ███████░░░░  |
+| **Software & IoT Platforms**             | 85%         | █████████░░░ |
+| **Operating Systems & Tools**            | 80%         | ████████░░░  |
+| **Low-Level & Driver Development**       | 70%         | ███████░░░░  |
+| **Power Monitoring & Sensors**           | 80%         | ████████░░░  |
+| **Programming Languages**                | 85%         | █████████░░░ |
+| **Machine Learning & Deep Learning**     | 75%         | ███████░░░░  |
 
 </details>
 ---
+
 
 <!-- Section Banner -->
 <p align="center">
