@@ -408,6 +408,7 @@ Madhav Institute of Technology & Science (Nov 2022 – Jun 2026)
 </p>
 
 ## 🔎 Research Interests & Focus Areas
+<details>
 <div align="left" style="max-width: 800px; margin: auto;">
 - **Deep Learning & Neural Networks**  
 - **Edge Computing &Distributed Systems**  
@@ -425,6 +426,7 @@ Madhav Institute of Technology & Science (Nov 2022 – Jun 2026)
 </p>
 
 ## 🤝 Professional Affiliations
+<details>
 <div align="left" style="max-width: 800px; margin: auto;">
 - Student Member, **IEEE Power & Energy Society (PES)** (Member #100040895)  
 - Member, **IEEE Computer Society (CS)** & **IoT Community**  
